@@ -1,4 +1,4 @@
-package com.lys.mydesign;
+package com.lys.mydesign.model;
 
 public enum PayTypeEnum {
 

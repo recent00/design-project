@@ -1,6 +1,6 @@
 package com.lys.mydesign.strategy.impl;
 
-import com.lys.mydesign.PayTypeEnum;
+import com.lys.mydesign.model.PayTypeEnum;
 import com.lys.mydesign.strategy.PayStrategy;
 import org.springframework.stereotype.Component;
 
